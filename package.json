@@ -1,0 +1,29 @@
+{
+  "name": "facebook-viewer",
+  "version": "1.0.0",
+  "description": "FacebookViewer ==============",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toastertom/FacebookViewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toastertom/FacebookViewer/issues"
+  },
+  "homepage": "https://github.com/toastertom/FacebookViewer#readme"
+}
